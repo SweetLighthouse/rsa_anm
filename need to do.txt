@@ -1,0 +1,6 @@
+list of problems in rsa project:
+
+need of ui
+add padding scheme
+do something acout last segment length is lost during encrypting
+key length of create key script

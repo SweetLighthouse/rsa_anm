@@ -1,0 +1,19 @@
+﻿Hồ Trọng Danh
+Quê tao ở quỳnh lương
+Introduction
+
+In today's rapidly evolving information technology landscape, integrating IT into business management and operations has become essential. Computer networks not only enhance operational efficiency but also ensure secure and swift data storage and sharing. This is particularly beneficial for non-economic organizations, where networked systems offer significant advantages in management and operations.
+
+Our report on the practical implementation of Computer Networks focuses on designing and managing a network system for various departments such as Materials, Import-Export, and Maintenance. The project encompasses tasks such as device allocation, IP address configuration, network administration using Windows Server 2008, and deriving lessons from the experience.
+
+Throughout this report, we detail the process of establishing a stable network system, including the strategic placement of devices and specific design requirements for each department. We also discuss the calculation and assignment of IP addresses to optimize network resources. The network administration section covers setting up and managing domains, user accounts, and essential network services using Windows Server 2008. Finally, we conclude by evaluating the project, highlighting practical lessons learned, and suggesting improvements for future projects.
+
+By leveraging our acquired knowledge and systematically implementing the project, we aim for this report to provide a comprehensive overview of network design and management within a business environment. We welcome feedback and suggestions from our instructors and peers to enhance the quality of this report.
+
+We sincerely thank you!
+
+English: Hello!
+Vietnamese: Xin chào!
+Korean: 안녕하새요.
+Japanese: こんにちは。
+Chinese: 你好.
